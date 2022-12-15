@@ -5,4 +5,4 @@ clinet site code: https://github.com/mahmudul474/dragonNews-Cilient
 
 server site code: https://github.com/mahmudul474/dragon-news-server
 
-tecknowledge: React Tailwind, Firebase  mongo db
+tecknowledge: React Tailwind, Firebase   express
